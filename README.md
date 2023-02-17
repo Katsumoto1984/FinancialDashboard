@@ -1,2 +1,2 @@
 # FinancialDashboard
- R Finacial Dashboard
+ R Financial Dashboard
